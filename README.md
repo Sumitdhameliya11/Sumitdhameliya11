@@ -1,4 +1,4 @@
-![Sumit Dhameliya](./Gemini_Generated_Image_f637a8f637a8f637.png)
+![Sumit Dhameliya](./Video_Animation_Generation_Complete.mp4)
 
 <h1 align="center">Hi 👋, I'm Sumit Dhameliya</h1>
 <h3 align="center">A passionate backend developer from India</h3>
