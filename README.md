@@ -1,12 +1,13 @@
 ![Sumit Dhameliya](./Gemini_Generated_Image_f637a8f637a8f637.png)
 
 <!-- <h1 align="center">Hi 👋, I'm Sumit Dhameliya</h1> -->
-<h1 align="center">Hi 👋, I'm <span style="color:#4FC3F7;">Sumit Dhameliya</span></h1>
+<h1 align="center">Hi 👋, I'm <span style="background: linear-gradient(90deg, #4FC3F7, #1E88E5); -webkit-background-clip: text; color: transparent;">Sumit Dhameliya</span></h1>
 
 <p align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=4000&pause=1200&color=4FC3F7&center=true&vCenter=true&width=750&height=60&lines=I+am+Sumit+Dhameliya;Software+Engineer;" 
+    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=4000&pause=1200&center=true&vCenter=true&width=750&lines=I+am+Sumit+Dhameliya;Software+Engineer;Backend+Developer+%7C+Node.js+Specialist;Building+Scalable+Backend+Systems" 
     alt="Typing Animation" 
+    style="background: linear-gradient(90deg, #4FC3F7, #1E88E5); -webkit-background-clip: text; color: transparent;"
   />
 </p>
 <h3 align="center">A passionate backend developer from India</h3>
