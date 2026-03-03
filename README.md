@@ -1,8 +1,7 @@
 ![Sumit Dhameliya](./Gemini_Generated_Image_f637a8f637a8f637.png)
 
-<!-- <h1 align="center">Hi 👋, I'm Sumit Dhameliya</h1> -->
-<h1 align="center" style="font-weight: 600; font-size: 32px; color: #ffffff;">
-  Hi&nbsp;<span style="vertical-align: middle;">👋</span>,&nbsp;
+<!-- <h1 align="center">Hi 👋, I'm Sumit Dhameliya</h1> --><h1 align="center" style="font-weight: 600; font-size: 32px; color: #ffffff; white-space: nowrap;">
+  Hi&nbsp;<span style="vertical-align: middle;">👋</span><span style="vertical-align: middle;">,</span>&nbsp;
   <img
     src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=3000&pause=1000&center=true&vCenter=true&width=350&lines=Sumit+Dhameliya&color=4FC3F7;1E88E5"
     alt="Typing Animation"
