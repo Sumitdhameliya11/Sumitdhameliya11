@@ -1,11 +1,9 @@
 ![Sumit Dhameliya](./Gemini_Generated_Image_f637a8f637a8f637.png)
 
 <!-- <h1 align="center">Hi 👋, I'm Sumit Dhameliya</h1> -->
-<h1 align="center">Hi 👋,<img 
-    src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=4000&pause=1200&center=true&vCenter=true&width=750&lines=I+am+Sumit+Dhameliya;Software+Engineer;" 
-    alt="Typing Animation" 
-    style="background: linear-gradient(90deg, #4FC3F7, #1E88E5); -webkit-background-clip: text; color: transparent;"
-  />
+<h1 align="center">
+  Hi 👋, 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=32&duration=4000&pause=1200&center=true&vCenter=true&width=750&lines=I+am+Sumit+Dhameliya;Software+Engineer;&color=4FC3F7;1E88E5" alt="Typing Animation" />
 </h1>
 <h3 align="center">A passionate backend developer from India</h3>
 
