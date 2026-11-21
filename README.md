@@ -1,4 +1,4 @@
-![Sumit Dhameliya](./Gemini_Generated_Image_f637a8f637a8f637.png)
+![Sumit Dhameliya](./sumit_gemini.png)
 
 <h1 align="center">
   Hii👋, 
